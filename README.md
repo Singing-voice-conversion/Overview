@@ -10,7 +10,7 @@ For more information, please link to [here](https://github.com/Singing-voice-con
 
 <br>
 
-Singtome is a project that **synthesizes how existing album tracks would sound if sung by a different artist or even your own voice**. Anyone can use it by signing up, and after submitting your voice, you'll receive the synthesized results in about 15 minutes! If you encounter any issues while using the service, please refer to the [[Trouble Shooting]] page, and if the problem persists, leave an issue, and we will assist you.
+Singtome is a project that **synthesizes how existing album tracks would sound if sung by a different artist or even your own voice**. Anyone can use it by signing up, and after submitting your voice, you'll receive the synthesized results in about 15 minutes! If you encounter any issues while using the service, please refer to the [Trouble Shooting](https://github.com/Singing-voice-conversion/Overview/wiki/Trouble-shooting) page, and if the problem persists, leave an issue, and we will assist you.
 
 <br>
 
